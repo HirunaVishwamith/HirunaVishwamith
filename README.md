@@ -1,7 +1,22 @@
-[![MasterHead](https://www.pikorea.co.kr/fileadmin/_processed_/d/6/csm_PI-Electronics-Manufacturing_7fc9930999.jpg)]()
-<h1 align="center">Hi 👋, I'm Hiruna Vishwamith</h1>
-<h3 align="center">Electronic and Telecommunication Engineering(UG)</h3>
-<img align="right" alt="Coding" width="400" src="https://mpeplonline.com/image/ele.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirunavishwamith&label=Profile%20views&color=0e75b6&style=flat" alt="hirunavishwamith" /> </p>
+<h1 align="center">Hi, I'm Hiruna Vishwamith</h1>
+<p align="center">
+  <b>FPGA Design Engineer @ Apex Compute</b><br/>
+  <span>Focused on FPGA design, digital systems, embedded development, and hardware-oriented computing.</span>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hirunavishwamith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hirunavishwamith&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirunavishwamith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
